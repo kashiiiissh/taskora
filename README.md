@@ -108,3 +108,38 @@ BSc Information Technology | React Developer
 ---
 
 Built with React and Vite.
+
+
+
+Design Approach
+
+Taskora is a modern SaaS productivity platform designed to help users manage tasks, projects, and team collaboration.
+
+- Used a clean purple and white colour palette for a modern SaaS appearance.
+- Created reusable React components for Navbar, Hero, Features, About, Pricing, Contact, and Footer.
+- Used CSS Grid and Flexbox to structure the page layouts.
+- Implemented responsive CSS media queries for desktop, tablet, and mobile screens.
+- Used Lucide React icons to improve the user interface.
+
+Challenges Faced
+
+One of the main challenges was making the website responsive across different screen sizes. I addressed this using CSS Grid, Flexbox, and media queries.
+
+I also implemented client-side form validation and a success message using React state. Another challenge was organising the website into reusable components to keep the code readable and maintainable.
+
+Screenshots
+
+The screenshots of the desktop and mobile layouts are available in the "screenshots" folder.
+
+Live Demo
+
+https://taskora-three-mu.vercel.app/
+
+Technologies Used
+
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Lucide React
